@@ -466,4 +466,6 @@
             root.Backbone.$ = $;
         }
     }
+
+    if (module.exports) module.exports = $;
 }).call(this);
