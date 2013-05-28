@@ -1,0 +1,14 @@
+{
+  "name": "backbone.native",
+  "repo": "bquery/backbone.native",
+  "description": "Backbone bquery replacement component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "backbone.native.js",
+  "scripts": [
+    "backbone.native.js"
+  ]
+}
